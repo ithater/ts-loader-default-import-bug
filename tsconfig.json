@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+
+    "target": "es5",
+  
+    "moduleResolution": "node",
+
+    "jsx": "react-jsx",
+    "baseUrl": ".",
+  },
+  
+  "exclude": ["node_modules", "**/node_modules/*", "build"]
+}
